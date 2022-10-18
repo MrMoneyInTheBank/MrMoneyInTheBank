@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MrMoneyInTheBank
+- 👋 Hi, I’m Ansh
 - 👀 I’m interested in Machine Learning (Deep Learning), Quantitative Finance
-- 🌱 I’m currently learning C++, Simulating Markov Processes, Japanese
-- 💞️ I’m looking to collaborate on ML projects
+- 🌱 I’m currently learning Rust, Geomteric Brownian Motion, Japanese
+- 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me linkedin.com/in/anshuman-singh-3b2496142
 
 <!---
