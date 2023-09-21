@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ansh
-- 👀 I’m interested in Machine Learning (Deep Learning), Quantitative Finance
-- 🌱 I’m currently learning Rust, Geometric Brownian Motion, Japanese
-- 💞️ I’m looking to collaborate on Deep Learning projects
+- 👀 I’m interested in Quantitative Finance, Machine Learning, Low Latency Development
+- 🌱 I’m currently learning: Malliavin Calculus, Japanese
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/anshuman-singh-3b2496142/)
 
 <!---
